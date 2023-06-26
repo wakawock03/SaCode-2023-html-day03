@@ -1,0 +1,23 @@
+.box {
+    padding: 30px;
+    border-style: solid;
+    margin-top: 20px;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+nav a{
+    color: #fff;
+    text-decoration: none;
+}
+
